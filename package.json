@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "google-trends-api": "^4.9.2",
+    "node-create-csv": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
